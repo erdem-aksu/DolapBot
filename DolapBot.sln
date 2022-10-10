@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DolapBot", "DolapBot.csproj", "{A6691EF9-E89A-4DBB-AF74-9BFC38CA1C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DolapBot.Tests", "DolapBot.Tests\DolapBot.Tests.csproj", "{B62A9131-BA10-415D-B54C-AEF4F51F5089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6691EF9-E89A-4DBB-AF74-9BFC38CA1C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6691EF9-E89A-4DBB-AF74-9BFC38CA1C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6691EF9-E89A-4DBB-AF74-9BFC38CA1C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6691EF9-E89A-4DBB-AF74-9BFC38CA1C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62A9131-BA10-415D-B54C-AEF4F51F5089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A9131-BA10-415D-B54C-AEF4F51F5089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A9131-BA10-415D-B54C-AEF4F51F5089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A9131-BA10-415D-B54C-AEF4F51F5089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
